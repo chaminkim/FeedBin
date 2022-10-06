@@ -11,5 +11,6 @@ public class Map extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.map);
+        String a= "dd";
     }
 }
