@@ -6,11 +6,13 @@
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.217" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.217" />
         <entry key="app/src/main/res/layout/aboutus.xml" value="0.182518115942029" />
-        <entry key="app/src/main/res/layout/inbox.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/email.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/inbox.xml" value="0.2296335856119792" />
         <entry key="app/src/main/res/layout/map.xml" value="0.2604166666666667" />
         <entry key="app/src/main/res/layout/menu.xml" value="0.16611480712890628" />
         <entry key="app/src/main/res/layout/profile.xml" value="0.23418764860733682" />
         <entry key="app/src/main/res/layout/settings.xml" value="0.23183237711588545" />
+        <entry key="app/src/main/res/layout/test.xml" value="0.12664640324214793" />
       </map>
     </option>
   </component>
