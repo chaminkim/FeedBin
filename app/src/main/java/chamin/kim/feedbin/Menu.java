@@ -19,7 +19,7 @@ public class Menu extends AppCompatActivity {
         btn_map.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent it = new Intent(Menu.this, Map.class);
+                Intent it = new Intent(Menu.this, MapAct.class);
                 startActivity(it);
             }
         });
